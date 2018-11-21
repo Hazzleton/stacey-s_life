@@ -8,9 +8,9 @@ h1 {
   text-align: center;
   font-family: verdana;
   font-size: 50px;
-  background-color: #6E4079;
-  color: #E6E3E6;
-  padding: 80px 40px 40px;
+  background-color: #FBE450;
+  color: #636145;
+  padding: 30px;
 }
 p {
   color: #4A464B;
@@ -21,11 +21,12 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #8D7E91;
+    background-color: #D6A719;
     position: fixed;
     top: 0;
-    width: 100%;
-    align: center;
+    width: 10%;
+    height: 100%;
+    align: left;
     text-align: center;
 
 }
@@ -33,18 +34,21 @@ li {
   display: inline;
 }
 .navigation {
-    display: inline-block;
-    padding: 20px;
-    background-color: #8D7E91;
+    display: block;
+    padding: 50px;
+    background-color: #D6A719;
     color: white;
     text-align: center;
     text-decoration: none;
 }
 li a:hover {
-    background-color: #6E5A73;
+    background-color: #F6C841;
   }
 article {
   width:500px;
   padding: 40px;
   margin: 0 auto;
+}
+.beach {
+  align: center;
 }
