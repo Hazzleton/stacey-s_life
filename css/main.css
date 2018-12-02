@@ -1,3 +1,16 @@
-h2 {
-
+.lady {
+max-height: 200px;
+background-position: center;
+padding-left: 80px;
+padding-right:80px;
+padding-bottom:20px;
+}
+body {
+     text-align: center;
+     background: url("pictures/beach.jpg");
+     background-size: cover;
+   }
+p{
+  font-size: 20px;
+  padding-top: 10px;
 }
