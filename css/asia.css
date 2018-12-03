@@ -17,3 +17,10 @@ article {
   background-position: center;
   padding-right:100px;
 }
+* {
+  background-color: lightgrey;
+  font-family: verdana;
+  margin: 0px;
+  background-size:auto;
+
+}

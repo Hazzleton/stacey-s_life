@@ -9,8 +9,19 @@ body {
      text-align: center;
      background: url("pictures/beach.jpg");
      background-size: cover;
+     transition: height .5s;
+ -webkit-transition: height .5s;
+ -moz-transition: height .5s;
+
    }
-p{
+p {
   font-size: 20px;
   padding-top: 10px;
+}
+* {
+  background-color: lightgrey;
+  font-family: verdana;
+  margin: 0px;
+  background-size:auto;
+
 }
