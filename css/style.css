@@ -2,6 +2,10 @@
   font-family: verdana;
   font-style: normal;
   font-weight: normal;
+    background-color: lightgrey;
+    margin: 0px;
+    background-size:auto;
+
 }
 
 h1 {
@@ -61,6 +65,8 @@ article {
   width:500px;
   padding: 40px;
   margin: 0 auto;
+  padding-left: 50px;
+  align-content: center;
 }
 
 .info {

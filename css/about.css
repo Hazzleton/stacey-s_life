@@ -1,16 +1,26 @@
+.btn-group {
+  align-items: center;
+  color:white;
+  border: 5px;
+  display: inline-block;
+  background-color: #3694E7;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+a:hover {
+    background-color: #1360A4;
+  }
+#rock {
 
-.bgimg {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/full-lonely.jpg");
   margin: 0;
   background-size: cover;
   background-blend-mode: darken;
   transition: 3s;
-  box-sizing: border-box;
-  height: 100%;
+  height: 200px;
   width: auto;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center; 
+  position: center;
 }
 
 #texttop {
