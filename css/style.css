@@ -37,7 +37,7 @@ ul {
     height: 100%;
     align: left;
     text-align: center;
-
+    overflow: hidden;
 
 }
 
@@ -56,12 +56,14 @@ li {
     color: #6E6C6C;
     text-align: center;
     text-decoration: none;
+    align: center;
     font-family: verdana;
     font-size: 1.2vw;
     float: left;
-    width: 20%;
+    width:auto;
+    overflow: hidden;
 }
-li a:hover {
+.navigation:hover {
     background-color: #F6C841;
   }
 article {
