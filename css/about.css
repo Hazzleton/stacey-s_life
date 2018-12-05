@@ -1,38 +1,37 @@
 .btn-group {
-  align-items: center;
+  margin: auto;
   color:white;
-  border: 5px;
-  display: inline-block;
+  border: 0px;
+  display: block;
   background-color: #3694E7;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.5vw;
+  position: center;
 }
 a:hover {
     background-color: #1360A4;
   }
 #rock {
 
-  margin: 0;
-  background-size: cover;
-  background-blend-mode: darken;
-  transition: 3s;
-  height: 200px;
-  width: auto;
+  margin: auto;
+  height: auto;
+  width: 300px;
   position: center;
+  max-width: 300px;
+  display: block;
 }
 
 #texttop {
-  ba
 	color: #fff;
 	width: 30%;
-	margin-top: 5%;
-	margin-left: 5%;
+  margin: auto;
 	padding: 2rem;
 	border: 4px double rgba(255,255,255,0.3);
 	background: rgba(0,0,0,0.3);
-	font-family: Oxygen, sans-serif;
+
+  text-align: center;
 }
 
 p {
