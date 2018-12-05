@@ -1,4 +1,4 @@
-.btn-group1 {
+.btn-group {
   margin: auto;
   color:white;
   border: 0px;
@@ -30,6 +30,7 @@ a:hover {
 	padding: 2rem;
 	border: 4px double rgba(255,255,255,0.3);
 	background: rgba(0,0,0,0.3);
+
   text-align: center;
 }
 form {
@@ -38,8 +39,8 @@ form {
 
 p {
    line-height: 1.6;
-   color: white;
   }
-  .box .btn-group1 {
-  width: 150px;
-  }
+}
+@media all and (max-width: 770px) {
+	div#texttop { display: none; }
+}
