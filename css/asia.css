@@ -9,6 +9,7 @@ img:hover {
 .asia {
 max-height: 200px;
 padding-bottom:20px;
+width: auto;
 }
 article {
   background-position: center;
