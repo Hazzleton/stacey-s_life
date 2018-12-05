@@ -75,6 +75,7 @@ article {
 .info {
  text-align: center;
  text-decoration: none;
- font-size: 0.5px;
+ font-size: 1.2vw;
  line-height: 1.5;
+ color: #4A464B;
 }
