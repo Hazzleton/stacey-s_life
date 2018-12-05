@@ -2,7 +2,12 @@
   font-family: verdana;
   font-style: normal;
   font-weight: normal;
+    background-color: lightgrey;
+    margin: 0px;
+    background-size:auto;
+
 }
+
 h1 {
   text-align: center;
   font-family: verdana;
