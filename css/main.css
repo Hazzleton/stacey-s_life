@@ -26,3 +26,8 @@ p {
   background-size:auto;
 
 }
+
+input[type="submit"] {
+  color: white;
+  background: black;
+}
