@@ -33,6 +33,9 @@ a:hover {
 
   text-align: center;
 }
+form {
+  colour: white;
+}
 
 p {
    line-height: 1.6;

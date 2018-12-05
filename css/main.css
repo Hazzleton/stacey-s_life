@@ -30,4 +30,12 @@ p {
 input[type="submit"] {
   color: white;
   background: #A4DFC3;
+
+}
+input[type="text"] {
+background: #E5E5E5;
+}
+input[type="reset"]{
+  background: #92D7D0;
+  color: white;
 }
