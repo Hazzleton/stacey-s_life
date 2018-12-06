@@ -1,0 +1,41 @@
+.lady {
+max-height: 200px;
+background-position: center;
+padding-left: 80px;
+padding-right:80px;
+padding-bottom:20px;
+width: auto;
+}
+body {
+     text-align: center;
+     background: url("pictures/beach.jpg");
+     background-size: cover;
+     transition: height .5s;
+ -webkit-transition: height .5s;
+ -moz-transition: height .5s;
+
+   }
+p {
+  font-size: 1.2vw;
+  padding-top: 10px;
+}
+* {
+  background-color: lightgrey;
+  font-family: verdana;
+  margin: 0px;
+  background-size:auto;
+
+}
+
+input[type="submit"] {
+  color: white;
+  background: #A4DFC3;
+
+}
+input[type="text"] {
+background: #E5E5E5;
+}
+input[type="reset"]{
+  background: #92D7D0;
+  color: white;
+}

@@ -1,0 +1,24 @@
+
+a {
+  padding: 20px;
+
+}
+img:hover {
+  opacity: 0.5;
+}
+.asia {
+max-height: 200px;
+padding-bottom:20px;
+width: auto;
+}
+article {
+  background-position: center;
+  padding-right:100px;
+}
+* {
+  background-color: lightgrey;
+  font-family: verdana;
+  margin: 0px;
+  background-size:auto;
+
+}
